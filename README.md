@@ -1,5 +1,5 @@
 # Ghar-School
-A project to help teachers and parents communicate effectively.
+A project to help schools and parents communicate effectively.
 
 ## What is Ghar-School?
 Ghar-School (घर-School) is a work-in-progress app designed to bridge the communication gap between parents and teachers. By providing a standardized platform, it simplifies the process of exchanging information and ensures seamless interaction between the two parties.
@@ -20,4 +20,11 @@ Ghar-School aims to solve these challenges by:
 Hi, I’m Mayank Dhavalikar, an 8th-grade student at a local international school. I have always been passionate about coding and technology, and I stumbled upon this exciting opportunity to showcase my skills at the Tech Expo.
 
 ## Status
+### Technologies
+I am currently using the following technolgies:
+- Github for version control
+- kodular for the devlopment
+- Firebase realtime database for the DB
+- FCM for messaging
+
 The app is currently under development. Stay tuned for updates!
